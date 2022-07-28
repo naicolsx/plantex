@@ -1,1 +1,3 @@
-# plantex
+# 🎍 
+
+![plants website](/preview.png)
